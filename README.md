@@ -1,4 +1,4 @@
-# MLE Bootcamp projects
+# Bootcamp Projects
 
 by Kristen Beck
 
