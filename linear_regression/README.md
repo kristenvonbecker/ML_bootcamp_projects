@@ -1,6 +1,8 @@
 # Linear Regression
 
-This mini-project accesses the very outdated Boston housing data set.
+This mini-project originally accessed the very outdated Boston housing data set. I have changed it to instead use the California housing dataset.
+
+**Note**: The introduction contains a lot of LaTeX-typesetting which probably won't render in GitHub. View in Colaboratory instead.
 
 Outline:
 - Exploratory data analysis
